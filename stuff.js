@@ -4,6 +4,6 @@ $("#blah").keydown(function(e) {
     var step1 = problem.split("*");
     var firstNumber = step1[0]
     var secondNumber = step1[1]
-    var step2 = 
+    var step2 = (firstNumber.append("+" + fir)
   }
 })
